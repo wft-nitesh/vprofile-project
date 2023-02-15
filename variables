@@ -1,0 +1,10 @@
+SNAP-REPO=vprofile-snapshot
+NEXUS-USER=admin
+NEXUS-PASS=admin123
+RELEASE-REPO=vprofile-release
+CENTRAL-REPO=vpro-maven-central
+NEXUS-GRP-REPO=vpro-maven-group
+NEXUSIP=172.31.0.58
+NEXUSPORT=8081
+slackapitoken: xoxb-4736798579554-4801849414645-hOVqN2U3EjNBz7lL20C2Aald
+sonartoken: 412549c13ed960c95c9268d75083c92c42e28964
